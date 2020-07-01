@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.groovy.bot	TRUE	/	FALSE	1999999999	__cfduid	d746452f5fa96e629292fc80aef7a1c211593599839
+groovy.bot	TRUE	/	FALSE	1999999999	SameSite	Lax
+groovy.bot	TRUE	/	FALSE	1999999999	g_state	%7B%22redirect%22%3A%22%2F%22%7D
+

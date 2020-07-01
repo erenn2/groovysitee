@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Jul 2020 13:36:54 at https://groovy.bot/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%PxX0s2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://groovy.bot/ -O1 "C:\Benim Web Sitem\sadasfdawsd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:37:17	Error: 	"Not Found" (404) at link https://groovy.bot/portal/v2/ (from https://js.chargebee.com/v2/chargebee.js)
+13:37:17	Error: 	"Not Found" (404) at link https://groovy.bot/e.data.redirectUrl (from https://js.chargebee.com/v2/chargebee.js)
+13:37:17	Error: 	"Not Found" (404) at link https://groovy.bot/img/backgrounds/groovybackground_grey3.svg (from https://groovy.bot/img/backgrounds/horizontal.svg)
+13:37:17	Error: 	"Not Found" (404) at link https://groovy.bot/img/logos/groovy_rounded.svg (from https://groovy.bot/img/logos/rounded.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 46 links scanned, 41 files written (1836103 bytes overall) [1047732 bytes received at 45553 bytes/sec], 1263664 bytes transferred using HTTP compression in 22 files, ratio 26%, 13.1 requests per connection
+(4 errors, 0 warnings, 0 messages)
